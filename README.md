@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apereznu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning commerce tools, contenful, kubernates and Azure
-- 💞️ I’m looking to collaborate on commerce applications
+- 💞️ I’m looking to collaborate on python/java/php applications
 - 📫 How to reach me https://www.credly.com/users/alberto-perez.25e443a6/badges
 
 <!---
